@@ -1,0 +1,17 @@
+print("Programmer: Jerald T. Torres")
+print("Date Created: July 6 2023")
+print("Description of the program: ")
+
+print("\nFirstname: Jerald")
+print("Middlename: Trinidad")
+print("Lastname: Torres")
+print("Course:BS Information Technology ")
+print("Year: 3rd year ")
+print("Age: 20 years old")
+print("Gender: Male ")
+print("Civil Status: Single ")
+print("Nationality: Filipino")
+print("Motto: Small progress is still progress")
+
+print("\nSchool: PHINMA Araullo University")
+print("College: CITE ")
